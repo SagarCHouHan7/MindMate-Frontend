@@ -7,7 +7,7 @@ import PublicRoute from "../utils/PublicRoute";
 import { PublicLayout } from "./PublicLayout";
 import { UserLayout } from "./Userlayout/UserLayout";
 import SignUP from "../public/components/signup";
-import PublicExperts from "../public/pages/publicExperts";
+import PublicExperts from "../public/pages/PublicExperts";
 import About from "../public/pages/about";
 import Contact from "../public/pages/contactUs";
 import FAQs from "../public/pages/faq";
