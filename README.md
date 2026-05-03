@@ -1,9 +1,9 @@
-# 🧠 MindMate – Frontend
+# MindMate – Frontend
 
-## 📌 About the Project
+##  About the Project
 MindMate AI is an agentic AI-powered mental wellness platform designed to provide continuous, safe, and intelligent emotional support. Unlike traditional chatbots, it uses multiple AI agents to understand, learn, and respond empathetically to users.
 
-## ❗ Problem Statement
+##  Problem Statement
 Mental health challenges often go unnoticed due to:
 - Lack of instant support systems
 - Limited access to professional help
@@ -18,7 +18,7 @@ Existing solutions fail due to:
 
 ---
 
-## 🚀 Frontend Overview
+##  Frontend Overview
 The frontend provides a seamless and interactive interface for users to:
 - Communicate with AI agents in real-time
 - Track emotional insights
@@ -27,7 +27,7 @@ The frontend provides a seamless and interactive interface for users to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
@@ -35,17 +35,17 @@ The frontend provides a seamless and interactive interface for users to:
 
 ---
 
-## ✨ Features
-- 💬 Real-time AI Chat Interface
-- 🧠 Emotion-aware UI feedback
-- 📊 Personalized interaction experience
-- 🌐 Community interaction modules (safe & moderated)
-- ⚡ Fast and responsive design
-- 🔒 User-friendly and secure interface
+##  Features
+-  Real-time AI Chat Interface
+-  Emotion-aware UI feedback
+-  Personalized interaction experience
+-  Community interaction modules (safe & moderated)
+-  Fast and responsive design
+-  User-friendly and secure interface
 
 ---
 
-## 📂 Folder Structure (Example)
+##  Folder Structure (Example)
 
 src/
 ├── components/
@@ -66,7 +66,7 @@ The frontend communicates with the backend via REST APIs for:
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 - Voice-based interaction UI
 - Emotional analytics dashboard
 - Multilingual support
@@ -74,7 +74,7 @@ The frontend communicates with the backend via REST APIs for:
 
 ---
 
-## 👥 Team
+## Team
 - Sagar Chouhan  
 - Harsh Kumar Gupta  
 - Hariom Patel  
@@ -82,11 +82,11 @@ The frontend communicates with the backend via REST APIs for:
 
 ---
 
-## 📞 Contact
-📧 sagarsinghchouhan1705@gmail.com  
-📱 +91 7223959729  
+##  Contact
+ sagarsinghchouhan1705@gmail.com  
+ +91 7223959729  
 
 ---
 
-## 📄 License
+##  License
 This project is developed for academic and innovation purposes.
